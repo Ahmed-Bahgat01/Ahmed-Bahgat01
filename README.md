@@ -1,7 +1,7 @@
 ```
 👋 Hi, I’m @Ahmed-Bahgat01
 👀 I’m interested in Software Engineering
-🌱 Currently I’m learning Backend Development
+<!-- 🌱 Currently I’m learning Backend Development -->
 📫 Reach me @: ahbahgat01@gmail.com
 ```
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahbahgat01@gmail.com)
